@@ -10,7 +10,7 @@ Repository ส่วนตัวของวิชา **GI113 Computer Programmi
 ชื่อ-นามสกุล: WitawatThawon
 Section: 129A
 รหัสนักศึกษา: 1690700677
-เลขที่: 
+เลขที่: N/A
 ```
 
 ## กติกาการตั้งชื่อ (Naming Convention)
