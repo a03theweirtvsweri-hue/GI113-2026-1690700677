@@ -37,6 +37,7 @@ namespace Lab02
             Console.WriteLine($"HP: {currentHp} / {maxHp}");
             Console.WriteLine($"HP Percent: 47%");
             Console.WriteLine();
+
             // Character 1: Knight
             string knightName = "Aiden";
             int knightHP = 150;
