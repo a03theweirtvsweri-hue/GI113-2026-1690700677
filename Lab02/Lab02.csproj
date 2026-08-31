@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="C:\Users\Administrator\Downloads\GI113-1690700677\Lab02.cs" Link="Lab02.cs" />
     <Compile Include="C:\Users\Administrator\Downloads\GI113-1690700677\Program.cs" Link="Program.cs" />
   </ItemGroup>
 
