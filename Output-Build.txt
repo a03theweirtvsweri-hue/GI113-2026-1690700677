@@ -1,0 +1,6 @@
+﻿Build started at 11:07...
+1>------ Build started: Project: Lab03, Configuration: Debug Any CPU ------
+1>  Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>  Lab03 -> D:\GI113-1690700677\GI113-2026-1690700677\Lab03\bin\Debug\net10.0\Lab03.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 11:07 and took 00.367 seconds ==========
