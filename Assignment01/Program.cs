@@ -1,4 +1,14 @@
-﻿namespace Assignment01
+﻿/*
+ * Student ID : 1690700677
+ * Name       : Witawat Thawon
+ * Section    : 129A
+ * No.        : N/A
+ * Course     : GI113 Computer Programming (GI)
+ */
+using System;
+
+
+namespace Assignment01
 {
     internal class Program
     {
