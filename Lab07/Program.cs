@@ -1,4 +1,12 @@
-﻿namespace Lab07
+﻿/*
+ * Student ID : 1690700677
+ * Name       : Witawat Thawon
+ * Section    : 129A
+ * No.        : N/A
+ * Course     : GI113 Computer Programming (GI)
+ */
+
+namespace Lab07
 {
     internal class Program
     {
@@ -16,8 +24,9 @@
             Console.WriteLine("2) Fire Magic");
             Console.WriteLine("3) Defend");
             Console.WriteLine("4) Run");
+            Console.WriteLine("5) Black Flash");
 
-            Console.Write("Choose (1-4): ");
+            Console.Write("Choose (1-5): ");
             int.TryParse(Console.ReadLine(), out int command);
 
             switch (command)
@@ -38,6 +47,10 @@
                     Console.WriteLine("Hero looks for a way out...");
                     break;
 
+                case 5:
+                    Console.WriteLine("Hero uses Black Flash!");
+                    break;
+
                 default:
                     Console.WriteLine("Hero hesitates. Invalid command!");
                     break;
@@ -47,6 +60,7 @@
             {
                 1 => 12,
                 2 => 18,
+                5 => 20,
                 _ => 0
             };
 
@@ -85,7 +99,6 @@
                     Console.WriteLine("Please type y or n.");
                     break;
             }
-
         }
     }
 }
